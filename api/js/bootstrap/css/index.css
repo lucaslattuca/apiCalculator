@@ -1,0 +1,15 @@
+html {
+    font-family: 'Montserrat';    
+}
+#titulo {
+    color: #26B8DF;
+}
+#tituloP {
+    font-size: 50px;
+}
+.header{
+    background-color: mediumseagreen;
+    color: mintcream;
+    margin: 70px 30% 2% 30%;
+    box-shadow: 3px 4px 2px rgba(41, 42, 43, .5);
+}
